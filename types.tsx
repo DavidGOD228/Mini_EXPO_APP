@@ -1,17 +1,6 @@
 export type RootStackParamList = {
-  Root: undefined;
+  MedicationFormScreen: undefined;
+  BottomTabNavigator: undefined;
+  TestButton: undefined;
   NotFound: undefined;
-};
-
-export type BottomTabParamList = {
-  TabOne: undefined;
-  TabTwo: undefined;
-};
-
-export type TabOneParamList = {
-  TabOneScreen: undefined;
-};
-
-export type TabTwoParamList = {
-  TabTwoScreen: undefined;
 };
